@@ -138,7 +138,7 @@ Backend API → `http://localhost:5002/api`
 
 - [x] App shell with routes (Header/Sidebar).
 - [x] Auth + protected routes.
-- [x] Task CRUD + Calendar view.
+- [ ] Task CRUD + Calendar view.
 - [ ] Subtasks + dependencies.
 - [ ] Reminders + push notifications.
 - [ ] Analytics dashboard.
